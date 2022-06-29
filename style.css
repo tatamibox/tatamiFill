@@ -35,6 +35,7 @@ main {
     width: 7rem;
 }
 
-.createNewProfileButton {
+.createNewProfileButton,
+.loadProfileButton {
     background-color: #ff99c8 !important;
 }

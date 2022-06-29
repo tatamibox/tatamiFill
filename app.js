@@ -1,7 +1,8 @@
-const index = require('./index');
+import { profiles } from ".";
+
 
 
 
 if (window.location.href.includes('https://docs.google.com/forms/')) {
-    hurt();
+    alert('hello');
 }

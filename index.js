@@ -29,5 +29,8 @@ submitNewProfileButton.addEventListener('click', (e) => {
 })
 //
 
+export { profiles };
+
+
 
 

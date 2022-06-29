@@ -1,0 +1,11 @@
+{
+    "name": "tatamiFill",
+    "version": "1.0.0",
+    "description": "lighting fast autofill to help you secure every release.",
+    "manifest_version": 3,
+    "author": "Tatami",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "tatamiFill"
+    }
+}
